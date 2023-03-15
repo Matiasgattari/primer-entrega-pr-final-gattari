@@ -2,7 +2,7 @@ import express, {Router} from 'express';
 import { Product, ProductManager } from '../../public/productManajer.js';
 import { randomUUID } from 'crypto'
 
-const productManager = new ProductManager('./productos.txt');
+export const productManager = new ProductManager('./productos.txt');
 
 
 

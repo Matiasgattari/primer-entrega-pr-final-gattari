@@ -177,6 +177,11 @@ async createCart (product) {
     
 }
 
+async saveCart(){
+   
+    const jsonCarts = JSON.stringify(this.carts, null, 2)
+    await fs.writeFile(this.path, jsonCarts)
+}
 async getCartById(id){
    
 // console.log(id);

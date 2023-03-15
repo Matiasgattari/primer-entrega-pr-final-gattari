@@ -13,6 +13,15 @@
       "category": "hogar",
       "status": true,
       "id": "44820200-b24d-478f-84e9-e69c4f8cf650"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "065592be-4846-4b2b-891e-ceddb54a01a9"
+    },
+    {
+      "id": "065597be-4846-4b2b-891e-ceddb54a01a9"
     }
   ],
   [
@@ -29,6 +38,15 @@
       "category": "hogar",
       "status": true,
       "id": "44820200-b24d-478f-84e9-e69c4f8cf650"
+    },
+    {
+      "id": "dac58fd1-4123-4b06-ad4f-aade9f184b2e"
+    },
+    {
+      "id": "7e095aff-4370-4eff-980c-a2b43a8f2a06"
+    },
+    {
+      "id": "63540be6-278a-47dd-8db8-d8d7fd164132"
     }
   ]
 ]
